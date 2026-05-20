@@ -134,10 +134,10 @@ The NLP emotion classifier was developed using:
 POST /face/predict
 ```
 
-Receives:
+### Receives
 - Image file
 
-Returns:
+### Returns
 - Emotion probabilities
 
 ---
@@ -148,7 +148,7 @@ Returns:
 POST /text/predict
 ```
 
-Receives:
+### Receives
 
 ```json
 {
@@ -156,14 +156,14 @@ Receives:
 }
 ```
 
-Returns:
+### Returns
 - Emotion probabilities
 
 ---
 
 # Swagger Documentation
 
-Available at:
+Available locally at:
 
 ```text
 http://127.0.0.1:8000/docs
@@ -224,13 +224,15 @@ uvicorn api.main:app --reload
 
 # Frontend Integration
 
-The backend supports integration with React applications through CORS middleware.
+The backend API supports integration with React applications through CORS middleware.
 
-Example frontend deployment:
+This project was integrated with a React frontend prototype for multimodal emotion analysis.
 
-```text
-https://ai-educational-frontend.vercel.app
-```
+---
+
+# Project Status
+
+Prototype version developed for research and portfolio purposes.
 
 ---
 
@@ -273,7 +275,6 @@ The repository still includes:
 - Docker deployment
 - CI/CD pipeline
 - Model optimization and quantization
-- Cloud deployment
 - Authentication system
 - Emotion analytics dashboard
 
@@ -281,9 +282,9 @@ The repository still includes:
 
 # Author
 
-Juan Mendes
+Juan Antonio Barreda Mendez
 
-Systems Engineering Student focused on:
+Systems Engineer specialized in:
 - Artificial Intelligence
 - Deep Learning
 - NLP
@@ -294,4 +295,4 @@ Systems Engineering Student focused on:
 
 # License
 
-This project is for educational and portfolio purposes.
+This project is intended for educational, research, and portfolio purposes.
