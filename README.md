@@ -177,7 +177,7 @@ http://127.0.0.1:8000/docs
 
 ```bash
 git clone https://github.com/your-username/cognitive-model.git
-cd cognitive-model
+cd cognitive-model-api
 ```
 
 ---
