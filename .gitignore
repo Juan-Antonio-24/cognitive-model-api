@@ -1,0 +1,48 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Git
+.git/
+
+# OS files
+.DS_Store
+
+# Pytest
+.pytest_cache/
+
+# DATASETS
+dataset/
+
+# FACE MODELS
+model/Face Model/FERACK_EfficientNetB2_checkpoint_B4.pth
+model/Face Model/feraff.pth
+model/Face Model/model_affectnet.pth
+model/Face Model/model_affectnet_V3.pth
+model/Face Model/modelo_affectnet_V2.pth
+
+# TRANSFORMERS CHECKPOINTS
+model/Text Model/checkpoint-715/
+
+# TRAINING NOTEBOOKS
+training/Face Training/Emotion_Detection_Affectnet.ipynb
+training/Face Training/Emotion_Detection_Affectnet_V2.ipynb
+training/Face Training/Emotion_Detection_FER2013_AffectNet.ipynb
+
+# TRANSFORMER MODEL
+model/Text Model/final_model/model.safetensors
