@@ -284,7 +284,7 @@ The repository still includes:
 
 Juan Antonio Barreda Mendez
 
-Systems Engineer specialized in:
+Computer Systems Engineer specialized in:
 - Artificial Intelligence
 - Deep Learning
 - NLP
