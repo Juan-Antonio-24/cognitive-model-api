@@ -40,7 +40,6 @@ AI-powered multimodal emotion detection system using:
 ## NLP
 - RoBERTuito
 - Tokenizers
-- Safetensors
 
 ## Computer Vision
 - EfficientNet-B2
