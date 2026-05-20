@@ -43,7 +43,7 @@ AI-powered multimodal emotion detection system using:
 
 ## Computer Vision
 - EfficientNet-B2
-- PIL
+- Pillow (PIL)
 - Torchvision Transforms
 
 ## Frontend
@@ -117,12 +117,12 @@ The NLP emotion classifier was developed using:
 
 ## Detected Emotions
 
-- joyful
-- mad
-- peaceful
-- powerful
-- sad
-- scared
+- Joyful
+- Mad
+- Peaceful
+- Powerful
+- Sad
+- Scared
 
 ---
 
